@@ -86,7 +86,7 @@ class _CourseSchedulePageState extends State<CourseSchedulePage>
         isOnline: true,
       ),
       Course(
-        name: ":Capstone Project",
+        name: "Capstone Project",
         dayOfWeek: "周三",
         timeRange: "03:00 PM - 05:50 PM",
         isOnline: false,
